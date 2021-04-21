@@ -1,3 +1,10 @@
+---
+layout: post
+title:  "Swift 공식문서 Strings and Characters
+excerpt: "문자열과 문자 타입을 알아봅시다!"
+date:   2021-04-21
+categories: swiftDoc5.4
+---
 
 # 3장 Strings and Characters
 
