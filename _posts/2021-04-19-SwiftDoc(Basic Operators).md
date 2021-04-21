@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "Swift 공식문서 뿌시기 2장 Basic Operator"
+title:  "Swift 공식문서 뿌시기 Basic Operator"
 excerpt: "기초 연산자들에 대해 알아봅시다!"
 date:   2021-04-19 
-categories: swiftDoc
+categories: swiftDoc5.4
 ---
 
 # 2장 Basic Operators
