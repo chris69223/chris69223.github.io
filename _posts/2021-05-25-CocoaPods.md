@@ -32,7 +32,6 @@ CocoaPods을 통해 가져올 수 있는 라이브러리를 Pod라고 합니다.
 ```swift
 pod install 
 ```
-/assets/images/posts/ios/cocoapods/01.png
 ![01.png](/assets/images/posts/ios/cocoapods/01.png)
 
 ## 3. Podfile에 수정
