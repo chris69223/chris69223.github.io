@@ -32,7 +32,8 @@ CocoaPods을 통해 가져올 수 있는 라이브러리를 Pod라고 합니다.
 ```swift
 pod install 
 ```
-![01.png](/assets/images/posts/ios/cocoapods/01.png)
+![01](https://user-images.githubusercontent.com/51842141/119436170-a6e82180-bd56-11eb-895d-4589c90df7d7.png)
+
 
 ## 3. Podfile에 수정
 
@@ -40,27 +41,28 @@ pod install
 
   저는 Podfile에 alamofire라는 네트워킹 라이브러리를 의존성을 추가해줬습니다.
 
-![02.png](/assets/images/posts/ios/cocoapods/02.png)
+![02](https://user-images.githubusercontent.com/51842141/119436156-a0f24080-bd56-11eb-93c2-f8169c37f2f6.png)
+
 
 ```swift
  'Alamofire', '~> 5.2'
 ```
 
-![03.png](/assets/images/posts/ios/cocoapods/03.png)
+![03](https://user-images.githubusercontent.com/51842141/119436161-a2236d80-bd56-11eb-9146-c412f43769df.png)
 
 ## 4. 터미널에서 pod install 실행
 
 pod install 까지 실행하셨다면 디렉터리에 새로운 프로젝트가 생겨났는데 
 
 여기서부터 주의하셔야 할 점은 앞으로 .xcworkspace라는 확장자 파일을 실행하여 프로젝트를 진행하셔야 합니다. 
+![04](https://user-images.githubusercontent.com/51842141/119436163-a2bc0400-bd56-11eb-8802-f7074386cf9a.png)
 
-![04.png](/assets/images/posts/ios/cocoapods/04.png)
 
 흰색 프로젝트 파일을 실행하면  Alamofire import가 잘 적용되는 것을 확인할 수 있습니다!
 
-![05.png](/assets/images/posts/ios/cocoapods/05.png)
+![05](https://user-images.githubusercontent.com/51842141/119436164-a3549a80-bd56-11eb-88ee-7479504415df.png)
 
-![06.png](/assets/images/posts/ios/cocoapods/06.png)
+![06](https://user-images.githubusercontent.com/51842141/119436165-a3ed3100-bd56-11eb-8098-5b6b23f85d29.png)
 
 앞으로 다른 라이브러리들도 사용하고 싶으시면 podfile에 위와같은 방법으로 추가해주시면 됩니다!  
 그럼 오늘은 여기까지 cocoapod 설치 및 실행법에 대해 알아봤습니다!! 
