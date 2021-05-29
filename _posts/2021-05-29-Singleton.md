@@ -1,11 +1,11 @@
-
 ---
 layout: post
-title:  "[iOS] Singleton Pattern이란?"
-excerpt: "솔로들만 사용하는 싱글톤!!"
+title:  "[iOS]Singleton Pattern이란?"
+excerpt: "싱글톤 완벽정리!"
 date:   2021-05-29 
 categories: iOS
 ---
+
 
 # iOS 싱글톤 패턴(Singleton Pattern)
 
