@@ -51,9 +51,8 @@ plainwhite:
 #header_pages:
 # - about.md
 # Disqus
-discus-identifier: https-chris69223-github-io
+discus-shortname: "https-chris69223-github-io"
 
-url : "https://chris69223.github.io"
 
 # Build settings
 theme: plainwhite
