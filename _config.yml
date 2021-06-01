@@ -50,7 +50,8 @@ plainwhite:
 # this and add the path to the pages in order as they should show up
 #header_pages:
 # - about.md
-disqus_shortname: https-chris69223-github-io
+# Disqus
+discus-identifier: https-chris69223-github-io
 
 
 # Build settings
