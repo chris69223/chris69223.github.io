@@ -4,6 +4,7 @@ title:  "[iOS]CocoaPods 설치 및 사용방법"
 excerpt: "코코아팟 완벽정리!"
 date:   2021-05-25 
 categories: iOS
+comments : true
 ---
 
 # [iOS]CocoaPods 설치 및 사용방법
